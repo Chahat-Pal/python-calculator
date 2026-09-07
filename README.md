@@ -16,7 +16,7 @@ This is a simple calculator built using Python. It can perform basic arithmetic 
 2. Run the file:
 ```bash
 python main.py
-
+```
 ## 💡 Future Improvements
 - Add GUI
 - Add more advanced operations
